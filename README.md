@@ -1,4 +1,3 @@
-boxy
-====
+#Boxy
 
-A simple Jekyll-Bootstrap Theme based on the Code Monkey Blog design
+A Jekyll Theme built for [Jekyll-Bootstrap](http://jekyllbootstrap.com) based on the the default theme of Reengo.com 
